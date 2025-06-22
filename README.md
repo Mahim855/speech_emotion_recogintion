@@ -36,9 +36,10 @@ pip install numpy pandas librosa seaborn matplotlib scikit-learn keras tensorflo
 
 1️⃣ Update the paths for your audio datasets:
 
+
 ```python
-speech_path = r"C:\Desktop\iitr\mars_project\Audio_Speech_Actors_01-24"
-song_path = r"C:\Desktop\iitr\mars_project\Audio_Song_Actors_01-24"
+speech_path = r"C:\Desktop\Audio_Speech_Actors_01-24"
+song_path = r"C:\Desktop\Audio_Song_Actors_01-24"
 ```
 
 2️⃣ Run the script:
